@@ -1,8 +1,8 @@
-# Netflix Data Exploration 📺
+# KDot's Netflix Data Analysis 📺
 
 A hands-on data analysis project using Python, Pandas, and Matplotlib to explore Netflix's catalog. This project is focused on data cleaning, exploratory analysis, and visual storytelling using real Netflix data.
 
-🗒️ **View Full Analysis via PDF** <a href="exports/netflix_analysis_kdot.pdf" target="_blank">Here</a> (exports/netflix_analysis_kdot.pdf)
+🗒️ **View Full Analysis via PDF** <a href="exports/kdot_netflix_analysis.pdf" target="_blank">Here</a> (exports/kdot_netflix_analysis.pdf)
 
 ## 🔍 Overview
 
