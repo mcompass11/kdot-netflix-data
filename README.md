@@ -2,6 +2,8 @@
 
 A hands-on data analysis project using Python, Pandas, and Matplotlib to explore Netflix's catalog. This project is focused on data cleaning, exploratory analysis, and visual storytelling using real Netflix data.
 
+🗒️ **View Full Analysis via PDF** <a href="exports/netflix_analysis_kdot.pdf" target="_blank">Here</a> (exports/netflix_analysis_kdot.pdf)
+
 ## 🔍 Overview
 
 This project dives into Netflix viewing data to:
@@ -20,6 +22,11 @@ This project dives into Netflix viewing data to:
 - Visualizing data with a horizontal bar chart
 
 ---
+
+## 🔑 Key Insights
+- **Strong growth seen after 2015** which aligns with further internet research found on the company's huge success
+- **International content dominates** this comes in the form of movie and tv shows
+- **Heavy U.S./India** according to this data the two countries takes the top 2 leader spots
 
 ## 🛠️ Tech Stack
 - Python 3
